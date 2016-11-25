@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{site.title}}</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+  {% include header.html %}
+  <div class="wrapper">
+    <div class="content-wide">
+      {% for post in site.posts %}
+      <div class=content-excerpt>
+      <h1>{{post.title}} </h1>
+      <div class="datebox">
+        {{ post.date | date: '%B %d, %Y' }}
+      </div>      </br>
+      {{ post.excerpt }}
+      </br>
+      {% if post.excerpt != post.content %}
+          <a href="{{ site.baseurl }}{{ post.url }}"><button class="btn-primary"> Read more</button></a>
+          </br></br>
+      {% endif %}
+       </div>
+      {% endfor %}
+    </div>
+    <div class="content-narrow">{% include sidebar.html %}</div>
+  </div>
+    {% include footer.html %}
+</body>
+</html>

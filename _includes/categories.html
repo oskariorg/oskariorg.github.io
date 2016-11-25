@@ -1,0 +1,14 @@
+<div class="wrapper">
+  <div class="container">
+    <div class="column wide">
+			{% for post in site.posts %}
+			{% if post.category == site.categories %}
+			<div class="post">
+        <h2 class="no-margin-top"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </div>
+			{% endif %}
+      {% endfor %}
+    </div>
+    <div class="column narrow">{% include sidebar.html %}</div>
+  </div>
+</div>
