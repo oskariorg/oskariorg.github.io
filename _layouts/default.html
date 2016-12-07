@@ -15,9 +15,9 @@
 <body>
   {% include header.html %}
   <div class="wrapper">
-    <div class="content-wide">
+    <div class="col-md-4 col-md-offset-4 container-fluid content-wide">
       {% for post in site.posts %}
-      <div class=content-excerpt>
+      <div class="content-excerpt text-center">
       <h1>{{post.title}} </h1>
       <div class="datebox">
         {{ post.date | date: '%B %d, %Y' }}
@@ -31,7 +31,7 @@
        </div>
       {% endfor %}
     </div>
-    <div class="content-narrow">{% include sidebar.html %}</div>
+    <div class="content-narrow container col-xs-2 col-xs-offset-1">{% include sidebar.html %}</div>
   </div>
     {% include footer.html %}
 </body>

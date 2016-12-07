@@ -18,10 +18,10 @@
       <div class="datebox">
         {{ post.date | date: '%B %d, %Y' }}
       </div>
-      <div class="content-wide-post">
+      <div class="container-fluid col-md-4 col-md-offset-4">
         {{content}}
       </div>
-      <div class="content-narrow">{% include sidebar.html %}</div>
+      <div class="content-narrow container col-xs-2 col-xs-offset-1">{% include sidebar.html %}</div>
   </div>
     {% include footer.html %}
 </body>

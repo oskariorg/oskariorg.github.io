@@ -15,7 +15,7 @@
 <body>
   {% include header.html %}
 <div class="wrapper">
-  <div class="content-wide-post">
+  <div class="container-fluid col-md-4 col-md-offset-4">
       {% for post in site.categories.[page.category] %}
       <h2><a href="{{post.url}}">{{post.title}}</a> </h2>
       <div class="datebox">
@@ -23,7 +23,7 @@
       </div>
       {% endfor %}
     </div>
-    <div class="content-narrow">{% include sidebar.html %}</div>
+    <div class="content-narrow container col-xs-2 col-xs-offset-1">{% include sidebar.html %}</div>
   </div>
     {% include footer.html %}
 </html>

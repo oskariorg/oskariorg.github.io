@@ -3,13 +3,7 @@ min-height:100%;
 }
 .content-wide {
 width:50em;
-height: 100%;
-text-align: center;
-margin-left: 30%;
-overflow:hidden;
-display:inline-block;
 background-color: white;
-overflow: auto;
 padding-bottom:9.375em; /* this needs to be bigger than footer height*/
 }
 
@@ -34,6 +28,17 @@ display:inline-block;
 margin-right: 5%;
 margin-top: 5%;
 }
+#posts :hover{
+  background-color: #FFDE00;
+  color:white;
+}
+.navbar-brand{
+  width:18.75em;
+  background-color: #FFDE00;
+}
+.icon-bar{
+  background-color:#333438;
+}
 .header {
   background-color: #FFDE00;
   border-bottom: 0.5px solid #333438;
@@ -54,6 +59,7 @@ margin-top: 5%;
   height: 9.375em;
   clear:both;
   padding-top:1.25em;
+  z-index:1 !important;
 }
 .footer-link{
 color:white;
@@ -153,3 +159,14 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0; }
+
+    /* Portrait phones and smaller */
+    @media (max-width: 990px) {
+      .content-narrow{
+        min-width: 6.5em;
+        position: fixed !important;
+        bottom: 1em !important;
+        right:0 !important;
+        z-index:8;
+      }
+    }
