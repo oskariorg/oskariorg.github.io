@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "OSGeo PSC The beginning"
+excerpt : "While not an actual PSC meeting this meeting introduced the OSGeo process and the first PSC was elected in the meeting."
 date:   2016-12-20 13:00:00 +0200
-categories: psc, psc-memo
+categories: [psc, psc-memo]
 ---
 
 # Oskari Architecture Group Meeting Memo
@@ -12,6 +13,7 @@ While not an actual PSC meeting this meeting introduced the OSGeo process and th
 ## Opening the meeting
 
 Introduction of participants:
+
 - Jani Kylmäaho, National Land Survey of Finland
 - Sanna Jokela, Gispo Ltd
 - Jan Lindbom, Dimenteq Ltd
@@ -64,8 +66,7 @@ This will be added to the rules.
 - Voting should be possible with any digital method proven suitable for the group
 (e.g email, slack, github). This will be added to the rules.
 
-### Oskari Roadmap
-- https://github.com/nls-oskari/oskari.org/wiki/Oskari-Improvement-Proposals-and-Roadmap
+### Oskari [Roadmap](https://github.com/nls-oskari/oskari.org/wiki/Oskari-Improvement-Proposals-and-Roadmap)
 - This is a draft and needs to be refined by the PSC in their first meeting
 
 ## Establishing Oskari PSC
