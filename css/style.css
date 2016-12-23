@@ -55,10 +55,12 @@ margin-top: 5%;
   color:white;
   width:100%;
   position: relative;
-  margin-top: -9.375em; /* negative value of footer height */
+/* negative value of footer height */
+/*
+  margin-top: -9.375em;
   height: 9.375em;
+  padding-top:1.25em; */
   clear:both;
-  padding-top:1.25em;
   z-index:1 !important;
 }
 .footer-link{
@@ -116,15 +118,16 @@ body {
 footer li {
   list-style:none;
   display: inline-block;
+  margin-left: 3em;
 }
 /**
  * Links
  */
-a {
-  color: #333438;
-  text-decoration: underline; }
+/* a {
+  color: #333438; } */
   a:visited {
-    color: #333438; }
+    color: #333438;
+  text-decoration: underline; }
   a:hover {
     color: #111;
     text-decoration: underline overline; }
