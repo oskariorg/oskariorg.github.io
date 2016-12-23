@@ -122,12 +122,12 @@ footer li {
  */
 a {
   color: #333438;
-  text-decoration: none; }
+  text-decoration: underline; }
   a:visited {
     color: #333438; }
   a:hover {
     color: #111;
-    text-decoration: underline; }
+    text-decoration: underline overline; }
     /**
  * Blockquotes
  */
