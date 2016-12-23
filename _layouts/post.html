@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{site.title}}</title>
+  <title>{{site.title}} - {{title}}</title>
   <link rel="stylesheet" href="/css/style.css">
   <script
   src="https://code.jquery.com/jquery-3.1.1.min.js"
@@ -16,9 +16,9 @@
   <div class="wrapper">
     {% include header.html %}
       <div class="container-fluid col-md-4 col-md-offset-4 content-wide-post">
-      <div class="datebox">
-        {{ date | date: '%B %d, %Y' }}
-      </div>
+        <div class="datebox">
+          {{ date | date: '%B %d, %Y' }}
+        </div>
         {{content}}
       </div>
       <div class="content-narrow container col-xs-2 col-xs-offset-1">{% include sidebar.html %}</div>

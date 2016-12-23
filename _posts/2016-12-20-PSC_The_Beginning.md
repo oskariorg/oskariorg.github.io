@@ -104,4 +104,4 @@ First Oskari PSC meeting: The Chair will suggest the PSCs first meeting on Janua
 - Jani Kylmäaho will assist the work of PSC if needed
 - PSCs job is seen crucial for the success of Oskari
 
-## Meeting was closed 14:47 UTC +2.
+#### Meeting was closed 14:47 UTC +2.
