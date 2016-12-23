@@ -121,17 +121,6 @@ footer li {
   margin-left: 3em;
 }
 /**
- * Links
- */
-/* a {
-  color: #333438; } */
-  a:visited {
-    color: #333438;
-  text-decoration: underline; }
-  a:hover {
-    color: #111;
-    text-decoration: underline overline; }
-    /**
  * Blockquotes
  */
 blockquote {
