@@ -22,7 +22,7 @@ Introduction of participants:
 - Sami Mäkinen, National Land Survey of Finland
 - Sampo Savolainen, Spatineo Ltd
 - Jaakko Leikko,Siili Ltd
-- Tuuli Pihlajamäki, Statistical Institute of Finland
+- Tuuli Pihlajamaa, Statistical Institute of Finland
 - Jussi Arpalahti, City of Helsinki
 - Jaakko Ruutiainen, Sito Ltd
 - Timo Sallinen, NLS FI
