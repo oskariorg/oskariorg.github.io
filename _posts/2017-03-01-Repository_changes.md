@@ -10,6 +10,8 @@ categories: [documentation]
 
 The codebase for Oskari will move from under the [nls-oskari](https://github.com/nls-oskari) user to a GitHub-organization [oskariorg](https://github.com/oskariorg). Some of the repositories will be renamed for clarity.
 
+This is done as part of the process of Oskari becoming an OSGeo project.
+
 ## Plans
 
 ### Frontend
