@@ -16,15 +16,15 @@ This is done as part of the process of Oskari becoming an OSGeo project.
 
 ### Frontend
 
-- Current frontend repository: [https://github.com/nls-oskari/oskari](https://github.com/nls-oskari/oskari)
-- New frontend repository: [https://github.com/oskariorg/oskari-frontend](https://github.com/oskariorg/oskari-frontend)
+- Current repository: [https://github.com/nls-oskari/oskari](https://github.com/nls-oskari/oskari)
+- New repository: [https://github.com/oskariorg/oskari-frontend](https://github.com/oskariorg/oskari-frontend)
 - Some of the bundles (app-specific etc) will be relocated here: [https://github.com/oskariorg/oskari-frontend-community](https://github.com/oskariorg/oskari-frontend-community)
 
 
 ### Server
 
-- Current server repository: [https://github.com/nls-oskari/oskari-server](https://github.com/nls-oskari/oskari-server)
-- New server repository: [https://github.com/oskariorg/oskari-server](https://github.com/oskariorg/oskari-server)
+- Current repository: [https://github.com/nls-oskari/oskari-server](https://github.com/nls-oskari/oskari-server)
+- New repository: [https://github.com/oskariorg/oskari-server](https://github.com/oskariorg/oskari-server)
 
 ### Support site ([http://oskari.org](http://oskari.org))
 
