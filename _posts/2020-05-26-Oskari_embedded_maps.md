@@ -6,9 +6,9 @@ date:   2020-05-26 13:00:00 +0300
 categories: [news]
 ---
 
-# How easy it is to create your own Oskari API based map?
+# How easy it is to create your own Oskari based map?
 
-In this blog post Jan Lindbom, the CPO/CTO in Sitowise Ltd explains to how to create a light weight map service with Oskari RPC. We shall try to do what he instructs.
+In this blog post Jan Lindbom, the CPO/CTO in Sitowise Ltd explains to how to create a light weight map service with Oskari. We shall try to do what he instructs.
 
 ## 1.  Access to Oskari
 
@@ -36,7 +36,7 @@ We used QGIS and QuickOSM tool to fetch coffeeshops from the city centre of Turk
 
 <img src="/img/edit_owndata.png" width="500" class="img-responsive"/>
 
-## Publish the map
+## 3. Publish the map
 
 - Click on **Map Publishing** and give the map a name and the URL where you want to post it
 
@@ -49,14 +49,17 @@ We used QGIS and QuickOSM tool to fetch coffeeshops from the city centre of Turk
 
 <iframe src="https://kartta.paikkatietoikkuna.fi/published/en/4fc5a1ea-6374-4ecb-a40f-3aa2f665732d" allow="geolocation" style="border: none; width: 500px; height: 500px;"></iframe>
  
-## If you want to tailor the embedded map to your own needs
+## 4. If you want to tailor the embedded map to your own needs, learn RPC
+
+Oskari's published maps can be tailored to make them look exactly as you like. This is done by using Oskari RPC (Remote Procedure Call).
 
 _“And the last and most important part, you need to have application developer knowledge to be able to develop the integration to the other system by RPC. You need to know the system to which you are integrating at the technical level also.”_
 
 _“The advantage of using RPC is that the map interface can be easily integrated into a part of another system and make it work interactively”,_ Jan explains.
 
-- Read on, [how to use Oskari API](https://oskari.org/examples/rpc-api/rpc_example.html) to tailor the embedded maps
+- [Examples of Oskari RPC](https://oskari.org/examples/rpc-api/rpc_example.html) to tailor the embedded maps
+- [Guide](https://oskari.org/guides/rpc-step-by-step)
 - Check the gallery of some examples, like [Fishing restrictions](https://www.oskari.org/gallery/fishing_restrictions) and [Social insurance service search](https://www.oskari.org/gallery/kela)
 - [Test the workshop material created for FOSS4G 2019](https://www.oskari.org/documentation/examples/FOSS4G_2019/workshop)
 
-Reviewed and rewritten in 2020-05-26, original story written in 2019-01-07.
+_Reviewed and rewritten in 2020-05-26, original story written in 2019-01-07._
