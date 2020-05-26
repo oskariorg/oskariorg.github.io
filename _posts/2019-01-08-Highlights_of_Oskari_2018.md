@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Highligts of Oskari in 2018"
+title:  "Highlights of Oskari in 2018"
 excerpt : "These were the highlights of the year 2018 for Oskari"
 date:   2019-01-08 13:00:00 +0300
 categories: [news]
 ---
 
-# Highligts of Oskari in 2018
+# Highlights of Oskari in 2018
 
 New Oskari community year starting, these were the highlights of Oskari in year 2018!
 
