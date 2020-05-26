@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Oskari RPC?"
-excerpt : "Oskari API is a really nice option for creating light weight map services
+excerpt : "Oskari API is a really nice option for creating light weight map services"
 date:   2019-01-09 13:00:00 +0300
 categories: [news]
 ---
@@ -21,7 +21,9 @@ City of Tampere offers feedback service for tram planning and National Land Surv
 
 They are all examples of utilizing Oskari API.
 
-## If you do not have the resources to setup your own Oskari instance - take ruthlessly advantage of those offering the published maps functionality. You can use the service provided by say Suomi.fi maps or Paikkatietoikkuna and create an embedded map and customize it with available RPC tools. This way you can enhance and modify the map service and make it talk to your own site.
+## If you do not have the resources to setup your own Oskari instance 
+
+Take ruthlessly advantage of those offering the published maps functionality. You can use the service provided by say Suomi.fi maps or Paikkatietoikkuna and create an embedded map and customize it with available RPC tools. This way you can enhance and modify the map service and make it talk to your own site.
 
 RPC actually means Remote Procedure Call - so retrieving tools to a client from a service providing this technology. 
 The map in the examples are created with some already existing Oskari installation and RPC is a way for the website to talk with the embedded map 
