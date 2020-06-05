@@ -23,7 +23,7 @@ If you have not tried yet, test Oskari 3D possibilities with the demo website.
 4. If the background map gets blurry, change the background map to e.g. "NLS-FI Background map"
 5. Test the mesh dataset from Helsinki and the city model. See how the buildings float on top of the map.
 
-<img src="/img/Helsinki_3D.png" class="img-responsive"/>
+<img src="/img/helsinki_3D.png" class="img-responsive"/>
 
 [See the whole video about 3D in demo Oskari.](https://youtu.be/ISKkL1_-svc)
 
