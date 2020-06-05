@@ -30,7 +30,7 @@ This can be done with signing in as a user, choosing a background maps or other 
 
 The styling abilities are a bit limited. But you can adjust the style also afterwards from **My data**-section. Notice, that adding own data is possible only if it is allowed in the used Oskari instance. The abilities of Oskari can vary according to the service provider. But adding own data and publishing maps is a core element of Oskari. 
 
-We used QGIS and QuickOSM tool to fetch coffeeshops from the city centre of Turku. At the moment Oskari allows datasets to be imported in zip-format and it supports ESRI shp., GPX., Mapinfo mif. and Google KML. -formats. 
+We used QGIS and QuickOSM tool to fetch coffeeshops from the city centre of Turku. At the moment Oskari allows datasets to be imported in zip-format and it supports ESRI .shp, .GPX, Mapinfo .mif and Google .KML-formats. 
 
 <img src="/img/owndatasets.png" width="500" class="img-responsive"/>
 
