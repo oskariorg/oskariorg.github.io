@@ -2,7 +2,7 @@
 layout: post
 title:  "3D capabilities of Oskari with videos"
 excerpt : "3D view and terrain height profile tool"
-date:   2020-06-20 13:00:00 +0300
+date:   2020-06-10 13:00:00 +0300
 categories: [news]
 ---
 
@@ -16,7 +16,7 @@ If you have not tried yet, test Oskari 3D possibilities with the demo website.
 
 [See the whole video about 3D in demo Oskari.](https://youtu.be/ISKkL1_-svc)
 
-1. First test the "Blue Marble" as background map and switch to 3D view [go to demo Oskari from here](https://demo.oskari.org/?zoomLevel=1&coord=431052.8380458826_5167185.112970014&mapLayers=8+100+,6+100+default&uuid=055af770-c777-4433-8127-28ce2d06c944&noSavedState=true&showIntro=false)
+1. First test the "Blue Marble" as background map and switch to 3D view [go to demo Oskari from here](https://demo.oskari.org/)
 2. You can spin the globe with shift pressed down
 
 <img src="/img/demo_bluemarble.png" class="img-responsive"/>
