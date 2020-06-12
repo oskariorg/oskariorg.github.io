@@ -16,17 +16,7 @@ Remember that all information is deleted from the demo site during the night, so
 
 Prerequisities for admintrators: you have to have some knowledge on OGC standards like [WMS](https://www.ogc.org/standards/wms) and [WFS](https://www.ogc.org/standards/wfs). 
 
-## 1. Adding data providers and themes
-
-Oskari is originally created for geoportal purposes, so all the datasets should have a data provider and also some kind of category or theme. 
-
-When you are logged in you can add data providers, themes and data thourgh map layers window by clicking the + button.
-
-<img src="/img/admin_button_maplayers.png" class="img-responsive"/>
-
-## 2. Adding map layers 
-
-### Supported map layer types
+## Supported map layer types
 
 <img src="/img/layer_admin.png" class="img-responsive"/>
 
@@ -35,7 +25,16 @@ And you can also add layers coming from Cesium, Mapbox or Bing.
 If these are not familiar to you, we suggest you read on how to create WMS-services with GeoServer or similar map server. 
 In short, there are different ways to provide interfaces for your data.
 
-### Adding a basic information from a WMS/WFS layer
+## 1. Adding data providers and themes
+
+Oskari is originally created for geoportal purposes, so all the datasets should have a data provider and also some kind of category or theme. 
+
+When you are logged in you can add data providers, themes and data thourgh map layers window by clicking the + button.
+
+<img src="/img/admin_button_maplayers.png" class="img-responsive"/>
+
+
+## 2. Adding a basic information from a WMS/WFS layer
 
 Test data used in the video:
 
@@ -53,20 +52,20 @@ Test data used in the video:
 7. Add the data provider and theme 
 8. Finally, do not finish yet but go up the form and proceed in to the next sheet
 
-### Visualisation sheet
+## 3. Visualisation possibilities
 
 For WMS data the only option is to add transparency.
 
 For WFS data you can have more options:
 
-- Try data clusterin for points, by adding some point distance for points you want to cluster.
+- Try data clustering for points, by adding some point distance for points you want to cluster.
 - Test different collection types
 - Style definitions with JSON: own styling for WFS-datasets
 - Feature highlighting and tooltip with JSON: own styling
 
 <img src="/img/visualization_WFS.png" class="img-responsive"/>
 
-### Additional information
+## 4. Additional information
 
 In the next sheet, you can assign some additional information. For WMS and WFS there are slightly different options.
 
@@ -77,7 +76,7 @@ In the next sheet, you can assign some additional information. For WMS and WFS t
 
 <img src="/img/additional_information.png" class="img-responsive"/>
 
-### User rights
+## 5. User rights
 
 You can assign role-based access rights for your map layer for adminstrators, guests and signed in users. 
 - **View:** layer visibility can be restricted to a certain user group. 
@@ -87,7 +86,11 @@ You can assign role-based access rights for your map layer for adminstrators, gu
 
 <img src="/img/user_rights.png" class="img-responsive"/>
 
-## Adding 3D dataset from Cesium
+## 6. Finally: Add the layer to your map
+
+And check if everything is ok. You can always edit the layer information from Map Layers if the pen-tool is active and you are logged in. 
+
+## 7. Extra: Adding 3D dataset from Cesium
 
 In the video we tested also how to add 3D data from Cesium to the map. 
 You need to sign in to [Cesium](https://cesium.com/) and find e.g. OpenStreetMap Buildings asset id and you need a token.
