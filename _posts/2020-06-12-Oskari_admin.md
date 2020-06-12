@@ -14,14 +14,14 @@ You can test admin-side tools with Oskari [demo site](https://demo.oskari.org/) 
 Access the admin tool by logging in and use the test passwords, found actually from the start help. 
 Remember that all information is deleted from the demo site during the night, so don’t store any crucial datasets there.
 
-Prerequisities for admintrators: you have to have some knowledge on OGC standards like [WMS](https://www.ogc.org/standards/wms) and [WFS](https://www.ogc.org/standards/wfs). 
+Prerequisities for administrators: you have to have some knowledge on OGC standards like [WMS](https://www.ogc.org/standards/wms) and [WFS](https://www.ogc.org/standards/wfs). 
 
 ## Supported map layer types
 
 <img src="/img/layer_admin.png" class="img-responsive"/>
 
 Oskari supports different standard interfaces like Web Map Service, Web Map Tile Service, Web Feature Service. 
-And you can also add layers coming from Cesium, Mapbox or Bing. 
+And you can also add layers from Bing or services providing Mapbox vector tiles or Cesium 3D-tiles. 
 If these are not familiar to you, we suggest you read on how to create WMS-services with GeoServer or similar map server. 
 In short, there are different ways to provide interfaces for your data.
 
@@ -45,21 +45,21 @@ Test data used in the video:
 
 1. Add an URL link for your WMS/WFS and passwords if needed
 2. Select the correct version for the WMS/WFS
-3. Browse through or find the wanted map layer with search (usually there are lot of layers to choose from)
+3. Browse through or find the wanted map layer with search (usually there are lot of layers to choose from in a single service)
 4. Set the SRS (coordinate system) or leave it as it is.
 5. The name of the dataset should come straight from the GetCapabilities query but you can also change the default names
 6. You can also add different translations for your dataset if your Oskari installation supports several languages
-7. Add the data provider and theme 
+7. Select the data provider and theme/group
 8. Finally, do not finish yet but go up the form and proceed in to the next sheet
 
 ## 3. Visualisation possibilities
 
-For WMS data the only option is to add transparency.
+For WMS data the only option is to select default value for transparency (the user can adjust this at runtime).
 
 For WFS data you can have more options:
 
 - Try data clustering for points, by adding some point distance for points you want to cluster.
-- Test different collection types
+- Select if data with lots of small items should be optimized for browser (MVT) or just use GeoJSON as the default safe option
 - Style definitions with JSON: own styling for WFS-datasets
 - Feature highlighting and tooltip with JSON: own styling
 
@@ -69,7 +69,7 @@ For WFS data you can have more options:
 
 In the next sheet, you can assign some additional information. For WMS and WFS there are slightly different options.
 
-- Update rate for capabilities (in seconds), this is for e.g. datasets that need to be refreshed often
+- Update rate for capabilities (in seconds), this is for e.g. datasets that need to be refreshed often like timeseries information
 - Metadata link, in some cases it is already attached to the WMS/WFS GetCapabilities request
 - For WMS layers you can add an other legend URL, if you don't want to use the dataproviders own legend
 - Real time layer for datasets that have data that is updated on the map frequently (like moving busses or weather data)
