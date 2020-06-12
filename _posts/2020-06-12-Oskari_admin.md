@@ -57,11 +57,12 @@ Test data used in the video:
 
 For WMS data the only option is to add transparency.
 
-For WFS data you can try data clustering, e.g. for points, by adding some point distance for points you want to cluster.
+For WFS data you can have more options:
 
-Collection type?
-
-Style definitions with JSON?
+- Try data clusterin for points, by adding some point distance for points you want to cluster.
+- Test different collection types
+- Style definitions with JSON: own styling for WFS-datasets
+- Feature highlighting and tooltip with JSON: own styling
 
 <img src="/img/visualization_WFS.png" class="img-responsive"/>
 
