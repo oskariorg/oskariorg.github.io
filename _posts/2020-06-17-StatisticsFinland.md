@@ -25,7 +25,7 @@ Statistics Finland chose purchasing the service from a service provider. Sitowis
 
 # What's next?
 
-The publishing system of Statistics Finland's website will be reformed. The goal is to incorporate the Oscar-RPC solution into web pages when it is only technically and content-wise possible. 
+The publishing system of Statistics Finland's website will be reformed. The goal is to incorporate the Oskari RPC solution into web pages when it is only technically and content-wise possible. 
 
 Statistics Finland's map and geospatial needs are very diverse, so it is possible to include other technological solutions if this is seen necessary.
 
