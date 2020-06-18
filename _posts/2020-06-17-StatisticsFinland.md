@@ -14,7 +14,7 @@ The data include municipality-based statistical areas, Paavo postcode areas, edu
 
 As statistical data, the service includes population data by municipality-based statistical areas and statistical grids (1 km x 1 km and 5 km x 5 km). All map layers can be found as both WFS and WMS web services.
 
-In the map service, it is possible also to make statistical thematic maps. The data behind is the Municipal Key Figures service data. In addition to thematic maps, it is also possible to view data as time series.
+In the map service, it is also possible to make statistical thematic maps. The available statistical data behind is the Municipal Key Figures service data used via PX-Web API. In addition to thematic maps, it is also possible to view data as time series.
 The service also has a Download Basket function, which allows you to download geospatial data sets for yourself.
 
 # Enthusiasm towards open source and joint development
@@ -40,7 +40,6 @@ In the case of large datasets, developing data standards to be interoperable wit
 More information:
 Rina Tammisto
 Statistics Finland
-
 
 
 
