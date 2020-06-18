@@ -30,7 +30,3 @@ Read the [issue in GitHub](https://github.com/oskariorg/oskari-docs/issues/110)
 <img src="/img/sidepanel.png" class="img-responsive"/>
 
 *Picture 2: Collapsed side panel* 
-
-
-
-
