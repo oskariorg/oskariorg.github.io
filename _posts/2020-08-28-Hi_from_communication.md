@@ -9,7 +9,7 @@ categories: [news]
 
 # Hello and thanks for all the fish - I mean thank you Oskari community!
 
-I have been privileged to participate in the communication coordination of Oskari software for the past three years. Gosh, how the time flies! 
+I have been privileged to participate in the communication coordination of Oskari software for the past three years. Gosh, how time flies! 
 The job is soon to be passed on to someone else and I’m happy to see that Oskari is currently being used in various instances and use cases. The Community is in a good state.
 
 My path with Oskari actually started about ten years ago, when I was coordinating the activities of regional SDI in Southwest Finland. 
@@ -29,7 +29,7 @@ and more known open source solution used also outside Finland. After the first a
 ## From semi-open to fully open
 
 Back then Oskari was in my opinion semi open: the source code was licensed correctly, but the communication between stakeholders was mainly done in Finnish in closed channels, 
-the developers had not signed the Contributor License Agreement and hence the source code could have encountered some legal immaterial problems. 
+the developers had not signed the Contributor License Agreement and hence the source code could have encountered some IPR challenges. 
 Also there were some bureaucratic hindrances that affected how to contribute, who could be part of the community and what are the roles of different groups and users. 
 And above all, there was a lingering question about who does what and how the source code is managed.
 
