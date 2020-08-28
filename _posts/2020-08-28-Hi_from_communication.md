@@ -24,7 +24,7 @@ It was also the first open source web map services I came across where you did n
 When I started working for Gispo Ltd in 2016 my first biggest assignment for the National Land Survey of Finland was to tackle the “problem” of openness. 
 You know, when the source code is open, it does not necessarily mean that it is accessible or openly communicated to everyone. 
 So my job was to check how we could together with the Oskari network (established in 2014, now-a-days called the Oskari community) steer Oskari into a more open development 
-and more known open source solution used also outside Finland. After the first assignment I was commissioned to continue and help with Oskari communication coordination activities.
+and more known open source solution used also outside Finland. After the first assignment I was commissioned to continue and help with Oskari communication coordination activities for the Joint Development Forum for Oskari.
 
 ## From semi-open to fully open
 
