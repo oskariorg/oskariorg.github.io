@@ -16,7 +16,7 @@ My path with Oskari actually started about ten years ago, when I was coordinatin
 At that time at the national level they started to develop a rival service for our lonesome geoportal  - the national SDI and national geoportal called Paikkatietoikkuna. 
 In 2014 I had to give up and surrender to the governmental forces and we adopted Oskari as the tool for providing regional viewing services for the hundreds of GIS data collected from the region. 
 
-## Oskari was the firs mature open source map services I encountered
+## Oskari was the first mature open source map services I encountered
 
 At that point Oskari was one of the first open source geoportals that was mature enough to support the needs of the EU's INSPIRE-directive (providing a view service for WMS/WFS map layers with integration to metadata service).
 It was also the first open source web map services I encountered where you did not have to build everything from scratch from tens of different components. 
