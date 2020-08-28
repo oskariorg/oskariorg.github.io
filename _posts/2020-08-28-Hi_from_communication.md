@@ -19,7 +19,7 @@ In 2014 I had to give up and surrender to the governmental forces and we adopted
 ## Oskari was the first mature open source map services I encountered
 
 At that point Oskari was one of the first open source geoportals that was mature enough to support the needs of the EU's INSPIRE-directive (providing a view service for WMS/WFS map layers with integration to metadata service).
-It was also the first open source web map services I encountered where you did not have to build everything from scratch from tens of different components. 
+It was also the first open source web map services I came across where you did not have to build everything from scratch from tens of different components. 
 
 When I started working for Gispo Ltd in 2016 my first biggest assignment for the National Land Survey of Finland was to tackle the “problem” of openness. 
 You know, when the source code is open, it does not necessarily mean that it is accessible or openly communicated to everyone. 
