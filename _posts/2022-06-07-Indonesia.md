@@ -27,7 +27,7 @@ The key features of the Satu Data Portal solution were:
 * Aligned with defined processes, roles & responsibilities
 * Open Source (based on Oskari.org & CKAN framework), open & standard API’s
 
-## What is Satu Data Portal?
+## Thoughts about Oskari overseas 
 
 The project was interesting and included a trip (well, several, but one of which I was lucky enough to join) to Indonesia where we got to present our solution to various government agencies, representatives of two different cities (Balikpapan in Borneo and Denpasar in Bali) and a variety of other parties in Jakarta. Oskari raised a lot of interest and was well received. There was a lot of discussion about how impressive it is that we have this kind of Open-Source solution developed by the National Land Survey of Finland. And because it was an integral part of the project to provide a solution that the cities and other parties would be able to maintain and develop even further themselves, the active developer community of Oskari was also welcomed with open arms.
 
