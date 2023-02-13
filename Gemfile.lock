@@ -3,7 +3,7 @@ GEM
   specs:
     RedCloth (4.2.9)
     RedCloth (4.2.9-x86-mingw32)
-    activesupport (7.0.4)
+    activesupport (7.0.4.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -102,7 +102,7 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.8.0)
     minima (2.0.0)
-    minitest (5.16.3)
+    minitest (5.17.0)
     net-dns (0.8.0)
     nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
