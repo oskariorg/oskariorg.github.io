@@ -10,7 +10,8 @@ categories: [news]
 
 SeutuMassa is an open-source (Oskari) software designed to make soil management easier and more efficient. It helps to reduce environmental impact by giving information on nearby surplus of soils. And therefore, it enables shorter transport distances and increased utilization of recyclable excavated soils. 
 
-<img src="/img/Seutumassa.png" class="img-responsive"/>
+![A screenshot of SeutuMassa](https://github.com/rekjuh/oskariorg.github.io/assets/87303508/5e97c1e4-c8a6-4fc9-826a-9ebc8c20f43a)
+A screenshot of SeutuMassa.
 
 SeutuMassa map service is maintained by HSY, who also has other map services implemented using Oskari.org's open-source code. So, it was natural to continue with the proven software. Open software also offers independence from the application provider and the possibility to customize the system according to special needs.  
  
