@@ -14,12 +14,12 @@ Iltapäivän aiheina mm. Oskarin uudet ominaisuudet sekä Oskarin tilaajan ohjee
 
 ## Ohjelmarunko:
 
-- Oskarin 2.12 ja 2.13 uudet toiminnallisuudet (Sami Mäkinen)
+- Oskarin 2.12 ja 2.13 uudet toiminnallisuudet (Sami Mäkinen, Maanmittauslaitos)
 - SeutuMassa-työkalu (Oskari maamassojen hallinnassa) (Henna-Kaisa Stjernberg, HSY)
-- “Näin tilaat Oskarin”, alustus + työpaja (Juho Rekilä)
+- “Näin tilaat Oskarin”, alustus + työpaja (Juho Rekilä, viestintäkoordinaattori)
 - Tauko
 - Karttapalvelujen saavutettavuus (puhuja ilm. myöh.)
-- Oskari.orgin uusien verkkosivujen esittely (Sini Pöytäniemi)
+- Oskari.orgin uusien verkkosivujen esittely (Sini Pöytäniemi, Maanmittauslaitos)
 
 Ilmoittautumiset sähköpostilla Juho Rekilälle juho@gispo.fi
 
@@ -40,12 +40,12 @@ Oskari network and those interested in Oskari gather together in National Land S
 Afternoon’s topics include Oskari's new features and guidelines on how to buy the development of Oskari. During the spring, there was also discussion about the accessibility of map services, and in May the subject will be summed up. An example of Oskari's use cases is the SeutuMassa tool, where Oskari is used to manage land masses.
 
 ## Program:
-- Demo of new functionalities of Oskari 2.12 and 2.13 (Sami Mäkinen)
+- Demo of new functionalities of Oskari 2.12 and 2.13 (Sami Mäkinen, National Land Survey)
 - SeutuMassa tool (Oskari in soil management) (Henna-Kaisa Stjernberg, HSY)
-- "Oskari procurement", introduction + workshop (Juho Rekilä)
+- "Oskari procurement", introduction + workshop (Juho Rekilä, communications coordinator)
 - Break
 - Accessibility of map services (speaker announced later)
-- Introducing Oskari.org's new upcoming website (Sini Pöytäniemi)
+- Introducing Oskari.org's new upcoming website (Sini Pöytäniemi, National Land Survey)
 
 Registration by email to Juho Rekilä at juho@gispo.fi
 
