@@ -13,12 +13,13 @@ Tervetuloa kaikki Oskarista kiinnostuneet keskiviikkona 15.5. Pasilan Virastotal
 Iltapäivän aiheina mm. Oskarin uudet ominaisuudet sekä Oskarin tilaajan ohjeet. Kevään aikana on myös käyty keskustelua karttapalvelujen saavutettavuudesta, ja toukokuussa summataan aihetta vielä. Oskarin käyttötapauksista esillä SeutuMassa-työkalu, jossa Oskaria käytetään maamassojen hallinnassa.
 
 ## Ohjelmarunko:
-Oskarin 2.12 ja 2.13 uudet toiminnallisuudet (Sami Mäkinen)
-SeutuMassa-työkalu (Oskari maamassojen hallinnassa) (Henna-Kaisa Stjernberg, HSY)
-“Näin tilaat Oskarin”, alustus + työpaja (Juho Rekilä)
-Tauko
-Karttapalvelujen saavutettavuus (puhuja ilm. myöh.)
-Oskari.orgin uusien verkkosivujen esittely (Sini Pöytäniemi)
+
+- Oskarin 2.12 ja 2.13 uudet toiminnallisuudet (Sami Mäkinen)
+- SeutuMassa-työkalu (Oskari maamassojen hallinnassa) (Henna-Kaisa Stjernberg, HSY)
+- “Näin tilaat Oskarin”, alustus + työpaja (Juho Rekilä)
+- Tauko
+- Karttapalvelujen saavutettavuus (puhuja ilm. myöh.)
+- Oskari.orgin uusien verkkosivujen esittely (Sini Pöytäniemi)
 
 Ilmoittautumiset sähköpostilla Juho Rekilälle juho@gispo.fi
 
@@ -39,12 +40,12 @@ Oskari network and those interested in Oskari gather together in National Land S
 Afternoon’s topics include Oskari's new features and guidelines on how to buy the development of Oskari. During the spring, there was also discussion about the accessibility of map services, and in May the subject will be summed up. An example of Oskari's use cases is the SeutuMassa tool, where Oskari is used to manage land masses.
 
 ## Program:
-Demo of new functionalities of Oskari 2.12 and 2.13 (Sami Mäkinen)
-SeutuMassa tool (Oskari in soil management) (Henna-Kaisa Stjernberg, HSY)
-"Oskari procurement", introduction + workshop (Juho Rekilä)
-Break
-Accessibility of map services (speaker announced later)
-Introducing Oskari.org's new upcoming website (Sini Pöytäniemi)
+- Demo of new functionalities of Oskari 2.12 and 2.13 (Sami Mäkinen)
+- SeutuMassa tool (Oskari in soil management) (Henna-Kaisa Stjernberg, HSY)
+- "Oskari procurement", introduction + workshop (Juho Rekilä)
+- Break
+- Accessibility of map services (speaker announced later)
+- Introducing Oskari.org's new upcoming website (Sini Pöytäniemi)
 
 Registration by email to Juho Rekilä at juho@gispo.fi
 
