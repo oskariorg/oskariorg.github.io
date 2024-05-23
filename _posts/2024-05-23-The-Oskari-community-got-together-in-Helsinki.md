@@ -38,4 +38,5 @@ Sini Pöytäniemi closed the event presenting the upcoming Oskari website. The n
 
 We’d like to thank all of the participants once again & hope to see you again in another live Oskari meeting!
 
-![kuva1](https://github.com/oskariorg/oskariorg.github.io/assets/87303508/3a75ee1c-f653-40f9-8596-0c2199247fbf)
+<img src="https://github.com/oskariorg/oskariorg.github.io/assets/87303508/3a75ee1c-f653-40f9-8596-0c2199247fbf" class="img-responsive" style="margin-left: 15%; border-radius: 5%;" alt="A photograph from Oskari Community Day 2024 with people talking around a table" /> 
+Discussing the Instructions for procuring Oskari.
