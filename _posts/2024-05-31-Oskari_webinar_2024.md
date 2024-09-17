@@ -16,4 +16,27 @@ This session will introduce you to the fundamental concepts of Oskari, explainin
 
 You can try the demo of Oskari [here](https://demo.oskari.org/).
 
-The webinar will be held in Finnish.
+The webinar will be held in Finnish. If you want a similar webinar to be held in English, let us know by sending an e-mail to Oskari communications coordinator Juho Rekilä: juho[at]gispo.fi
+
+
+## The schedule of the event:
+
+9:00-9:55 Oskari for end-users (Juho Rekilä)
+- What is Oskari? Why to use Oskari?
+- The main functionalities
+- A demo of the Oskari user interface
+- Try it yourself & different use cases & discussion
+
+9:55-10:00 A short break
+
+10:00-11:00 Oskari for admins, developers and procurers (Sami Mäkinen)
+
+- Admin tools
+- Oskari architechture
+- Updating and developing Oskari
+- Procuring Oskari and joining the Joint Development Forum
+- Discussion
+
+
+
+<img src="https://github.com/user-attachments/assets/19325d40-5b1f-4851-b847-84bf0e4755dd" class="img-responsive" style="margin: 10%; border-radius: 5%;" alt="A banner for the webinar featuring the Oskari otter" />
